@@ -1,0 +1,2 @@
+a python program to detect motion using Open CV
+THis program will detect an object when it appears infront of the camera and record the times when it enters and leaves the place. It can be viewed by opening the "log.csv" file
